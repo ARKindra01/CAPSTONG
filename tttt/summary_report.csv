@@ -1,0 +1,24 @@
+MazeTrack Scientific Summary Report
+Apparatus / Arena,Tracking Arena
+Scale (pixels/cm),11.14
+
+OVERALL METRICS,VALUE,UNIT
+Total Duration,116.55,seconds
+Total Distance,459.49,cm
+Total Distance,4.595,meters
+Mean Speed,3.94,cm/s
+Max Speed,56.31,cm/s
+Freezing / Immobility Duration,13.64,seconds
+Freezing / Immobility Percentage,11.7,%
+
+ZONE METRICS
+Zone / Category,Time (s),Time (%),Entries (count),Latency to First Entry (s),Distance (cm),Mean Speed (cm/s)
+Periphery,76.3,65.5,6,0.07,272.52,3.57
+Middle Ring,28.49,24.4,8,13.17,136.96,4.81
+Center,11.77,10.1,2,78.71,50.01,4.25
+
+GRID CELL BREAKDOWN
+Cell ID,Label,Time (s),Entries
+Center,Center,11.77,2
+Middle Ring,Middle Ring,28.49,8
+Periphery,Periphery,76.3,6
